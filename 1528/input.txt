@@ -4,3 +4,9 @@ abba
 adcda
 adcdad
 abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcbadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+a
+aa
+ab
+ba
+aaa
+aba
